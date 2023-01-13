@@ -29,8 +29,8 @@
       }
       {
         people.howie = {
-          name = "howie";
-          age  = 420;
+          name = "howie";  # Defined in "base" module.
+          age  = 420;      # Our extension.
         };
       }
     ];
